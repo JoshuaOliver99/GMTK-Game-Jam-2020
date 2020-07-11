@@ -9,7 +9,7 @@ public class ClickedAd : MonoBehaviour
     {
         Debug.Log("CLICKED: " + gameObject.name);
 
-        //Destroy(transform.parent.gameObject);
+        Destroy(transform.parent.gameObject);
     }
 
 }
