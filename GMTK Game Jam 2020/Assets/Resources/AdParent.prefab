@@ -254,7 +254,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8421061044091113754}
   m_Layer: 0
-  m_Name: Ad
+  m_Name: AdParent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
